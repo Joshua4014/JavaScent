@@ -1,2 +1,2 @@
 # JavaScent
-Online Fragrances Store
+Online Fragrances Store System
