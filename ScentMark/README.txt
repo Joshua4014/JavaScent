@@ -15,3 +15,5 @@ SQL:
 E paste ang QUERY nga naa sa "perfume_store.sql" sa imo MySQL.
 
 Ang Kuwang nalang is ang Login & Registry panel.
+
+Suggestion and Changes, state which line from - to and which class you change:
